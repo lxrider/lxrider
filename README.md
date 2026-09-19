@@ -6,7 +6,7 @@ I care about protecting people, the organizations they build, and the infrastruc
 and systems they rely on.
 
 I've always been curious about technology. It probably started the first time
-I got my hands on an Atari ST, playing _Tintin on the Moon _ by Infogrames,
+I got my hands on an Atari ST, playing *Tintin on the Moon* by Infogrames,
 still one of the most difficult games I've ever played :)
 
 My background spans **Linux, infrastructure, cybersecurity and IT/OT environments**.
