@@ -109,8 +109,16 @@ before deciding how to build it.
 
 I've always learned better with my hands on real systems.
 
-Documentation matters, theory matters, but so do experiments, mistakes and
-the hours spent trying to understand why something does not behave as expected.
+Sometimes that means being alone in a datacenter at night, with a critical
+service that has to stay available and no one else around to solve the problem.
+
+That's when you stop learning from diagrams and start learning from reality.
+
+You never learn faster or better than when you're facing that kind of issue for real.
+
+Documentation matters, theory matters, but so do experiments, mistakes,
+pressure, and the hours spent trying to understand why something does not
+behave as expected.
 
 ### Make it reproducible
 
@@ -118,7 +126,7 @@ If I manage to make something work once, that's useful.
 
 If I can rebuild it, explain it and document it, that's much more interesting.
 
-### Keep security understandable
+### Keep security human & understandable
 
 Security should not become a collection of controls nobody understands.
 
