@@ -6,10 +6,11 @@ I care about protecting people, the organizations they build, and the infrastruc
 and systems they rely on.
 
 I've always been curious about technology. It probably started the first time
-I got my hands on an Atari ST.
+I got my hands on an Atari ST, playing Tintin on the Moon by Infogrames,
+still one of the most difficult games I've ever played :)
 
 My background spans **Linux, infrastructure, cybersecurity and IT/OT environments**.
-Over the years, I've worked on systems, networks, security operations, risk,
+Over the years, I've worked on systems, networks, security operations, risk management,
 automation and industrial environments.
 
 What I enjoy most is understanding how things really work by getting hands-on with them :)
@@ -49,7 +50,7 @@ A reproducible **RHEL 9 golden image** built with Kickstart.
 It is used as the reference image for my Linux lab and focuses on unattended
 installation, image preparation, security defaults and reproducibility.
 
-### >> Security Architecture Lab
+### Security Architecture Lab
 
 I'm building a virtual cybersecurity lab where I can experiment with:
 
@@ -67,7 +68,7 @@ make mistakes and learn from them.
 
 **Work in progress.**
 
-### >> SaaS Security Lab
+### SaaS Security Lab
 
 I'm also starting a lab around the security of a modern SaaS environment.
 
@@ -93,13 +94,13 @@ This project will grow alongside my work on **AWS architecture and cloud securit
 
 This is probably the part I enjoy the most.
 
-Start with the problem.
-Understand the environment.
-Question assumptions.
-Design something.
-Build it.
-Test it.
-Break it if necessary.
+Start with the problem.  
+Understand the environment.  
+Question assumptions.  
+Design something.  
+Build it.  
+Test it.  
+Break it if necessary.  
 Then make it better.
 
 A blank page gives you the freedom to understand what actually needs to be built
@@ -126,7 +127,7 @@ If I manage to make something work once, that's useful.
 
 If I can rebuild it, explain it and document it, that's much more interesting.
 
-### Keep security human & understandable
+### Keep security human and understandable
 
 Security should not become a collection of controls nobody understands.
 
