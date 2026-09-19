@@ -134,4 +134,8 @@ Security should not become a collection of controls nobody understands.
 For me, it starts with understanding the system, the risks, the constraints
 and the people who depend on it.
 
+If you can't explain what you're doing in simple words, or teach it to others
+in a way they can understand, then you're probably building the rocket from
+Tintin on the Moon :)
+
 ## Build. Break. Understand. Rebuild better.
