@@ -12,7 +12,7 @@ My background spans **Linux, infrastructure, cybersecurity and IT/OT environment
 Over the years, I've worked on systems, networks, security operations, risk,
 automation and industrial environments.
 
-What I enjoy most is understanding how things really work.
+What I enjoy most is understanding how things really work by getting hands-on with them :)
 
 I like starting from a blank page, building something, testing it, sometimes
 breaking it, understanding why it failed, and making it better.
