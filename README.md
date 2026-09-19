@@ -5,58 +5,53 @@ I'm a French cybersecurity engineer.
 I care about protecting people, the organizations they build, and the infrastructure
 and systems they rely on.
 
-I've always had a strong appetite for technology, probably since the first time
+I've always been curious about technology. It probably started the first time
 I got my hands on an Atari ST.
 
 My background spans **Linux, infrastructure, cybersecurity and IT/OT environments**.
-Today, I'm particularly interested in **security architecture, SecOps, automation,
-cloud security and the challenges that appear where IT meets the physical world**.
+Over the years, I've worked on systems, networks, security operations, risk,
+automation and industrial environments.
 
-I like understanding how things really work, starting from a blank page and learning
-by building.
+What I enjoy most is understanding how things really work.
 
-Most of what you'll find here comes from that approach:
-**practical labs, documented experiments and things built to be understood — not just to work.**
+I like starting from a blank page, building something, testing it, sometimes
+breaking it, understanding why it failed, and making it better.
 
----
+That's mostly what you'll find here: practical labs, experiments, documentation,
+and projects built to learn by doing.
 
-## Current focus
+## What I'm working on
 
-- Security architecture & governance
+- Security architecture and governance
 - SecOps, logging and detection
-- Linux / RHEL platform engineering
+- Linux and RHEL platform engineering
 - Infrastructure automation with Ansible
-- IT/OT security architecture
-- SaaS & cloud security
+- IT/OT security
+- SaaS and cloud security
 - Application security fundamentals
-- AWS architecture & security
-
----
+- AWS architecture and security
 
 ## Projects
 
 ### [Linux Platform Engineering](https://github.com/lxrider/linux-platform-engineering)
 
-Production-style Linux platform engineering lab built around **KVM, RHEL 9 and automation**.
+A Linux lab built around **KVM, RHEL 9 and automation**.
 
-The project covers virtualization, reproducible provisioning, golden images,
-system administration, hardening and progressive automation.
+I use it to work on virtualization, reproducible provisioning, golden images,
+Linux administration, hardening and automation.
 
----
+The idea is not just to make things work, but to understand how and why they work.
 
 ### [RHEL Golden Image](https://github.com/lxrider/rhel-golden-image)
 
-Reproducible **RHEL 9 reference image** built with Kickstart and prepared for
-QCOW2 linked-clone deployment.
+A reproducible **RHEL 9 golden image** built with Kickstart.
 
-The project focuses on unattended installation, image lifecycle, security defaults
-and reproducibility.
-
----
+It is used as the reference image for my Linux lab and focuses on unattended
+installation, image preparation, security defaults and reproducibility.
 
 ### Security Architecture Lab
 
-Virtual cybersecurity lab focused on:
+I'm building a virtual cybersecurity lab where I can experiment with:
 
 - network segmentation
 - firewalling
@@ -67,18 +62,16 @@ Virtual cybersecurity lab focused on:
 - vulnerability management
 - security architecture
 
-The goal is to build a realistic environment where architecture decisions can be
-implemented, tested, broken and improved.
+The goal is to create something realistic enough to test architectural choices,
+make mistakes and learn from them.
 
 **Work in progress.**
 
----
-
 ### SaaS Security Lab
 
-A practical environment for exploring the security architecture of a modern SaaS platform.
+I'm also starting a lab around the security of a modern SaaS environment.
 
-Current areas of interest include:
+This is an area I'm actively developing, with a focus on:
 
 - cloud architecture
 - IAM and least privilege
@@ -90,43 +83,46 @@ Current areas of interest include:
 - infrastructure as code
 - DevSecOps practices
 
-The project will evolve alongside my work on **AWS architecture and cloud security**.
+This project will grow alongside my work on **AWS architecture and cloud security**.
 
 **Work in progress.**
 
----
-
-## Engineering principles
+## How I like to work
 
 ### Start from a blank page
 
-I like starting from first principles:
+This is probably the part I enjoy the most.
 
-**understand the problem → question assumptions → design → build → test → break → improve**
+Start with the problem.
+Understand the environment.
+Question assumptions.
+Design something.
+Build it.
+Test it.
+Break it if necessary.
+Then make it better.
 
-A blank page is not an absence of structure.
+A blank page gives you the freedom to understand what actually needs to be built
+before deciding how to build it.
 
-It is the opportunity to build the right one.
+### Learn by doing
 
-### Learn by building
+I've always learned better with my hands on real systems.
 
-I learn best by working on real systems and practical environments.
+Documentation matters, theory matters, but so do experiments, mistakes and
+the hours spent trying to understand why something does not behave as expected.
 
-Documentation, experimentation, mistakes and failure are all part of the process.
+### Make it reproducible
 
-### Reproducible by design
+If I manage to make something work once, that's useful.
 
-If something works once, it is an experiment.
+If I can rebuild it, explain it and document it, that's much more interesting.
 
-If it can be rebuilt, understood and documented, it becomes engineering.
+### Keep security understandable
 
-### Security should be understandable
+Security should not become a collection of controls nobody understands.
 
-Good security is not just about adding more controls.
-
-It starts with understanding the system, the risks, the constraints and the people
-who depend on it.
-
----
+For me, it starts with understanding the system, the risks, the constraints
+and the people who depend on it.
 
 ## Build. Break. Understand. Rebuild better.
