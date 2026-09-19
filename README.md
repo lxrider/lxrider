@@ -49,7 +49,7 @@ A reproducible **RHEL 9 golden image** built with Kickstart.
 It is used as the reference image for my Linux lab and focuses on unattended
 installation, image preparation, security defaults and reproducibility.
 
-### Security Architecture Lab
+### >> Security Architecture Lab
 
 I'm building a virtual cybersecurity lab where I can experiment with:
 
@@ -67,7 +67,7 @@ make mistakes and learn from them.
 
 **Work in progress.**
 
-### SaaS Security Lab
+### >> SaaS Security Lab
 
 I'm also starting a lab around the security of a modern SaaS environment.
 
