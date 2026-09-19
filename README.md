@@ -128,8 +128,7 @@ If I can rebuild it, explain it and document it, that's much more interesting.
 
 Security should not become a collection of controls nobody understands.
 
-For me, it starts with understanding the system, the risks, the constraints
-and the people who depend on it.
+For me, security starts with understanding the business first: what matters, what is at stake, the systems that support it, the risks, the constraints, and top of it the people who depend on them.
 
 If you can't explain what you're doing in simple words, or teach it to others
 in a way they can understand, then you're probably building the rocket from
