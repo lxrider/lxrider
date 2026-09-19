@@ -5,7 +5,7 @@ I'm a French cybersecurity engineer.
 I care about protecting people, the organizations they build, and the infrastructure
 and systems they rely on.
 
-I've always had a strong appetite for technology — probably since the first time
+I've always had a strong appetite for technology, probably since the first time
 I got my hands on an Atari ST.
 
 My background spans **Linux, infrastructure, cybersecurity and IT/OT environments**.
