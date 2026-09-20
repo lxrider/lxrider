@@ -59,7 +59,7 @@ The project starts from the business context and attacker objectives before movi
 
 ### Security Architecture Lab
 
-I'm building a virtual cybersecurity lab where I can experiment with:
+I'm building a virtual industrial cybersecurity lab where I can experiment with:
 
 - network segmentation
 - firewalling
