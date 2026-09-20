@@ -22,6 +22,7 @@ and projects built to learn by doing.
 
 - Security architecture and governance
 - SecOps, logging and detection
+- Human attack surface and defensive OSINT
 - Linux and RHEL platform engineering
 - Infrastructure automation with Ansible
 - IT/OT security
@@ -56,6 +57,14 @@ The fictional product, **RedRocket Engage**, is a small multi-tenant B2B SaaS ap
 The project starts from the business context and attacker objectives before moving into architecture and technical controls.
 
 **Work in progress.**
+
+### [PRE-ATT&CK Human Surface](https://github.com/lxrider/pre-attack-human-surface)
+
+A practical project about what an attacker can learn before touching a system or sending the first message.
+
+It connects MITRE ATT&CK Reconnaissance and Resource Development with defensive OSINT, online exposure and practical personal-security measures for executives, administrators and other people with privileged access.
+
+The goal is not to make people invisible, but to remove unnecessary clues, break obvious connections and prepare a simple response.
 
 ### Security Architecture Lab
 
