@@ -4,7 +4,7 @@ I'm a French cybersecurity engineer.
 
 I care about protecting people, the organizations they build, and the infrastructure and systems they rely on.
 
-I've always been curious about technology. It probably started the first time I got my hands on an Atari ST, playing *Tintin on the Moon* by Infogrames, still one of the most difficult games I've ever played :)
+I've always been curious about technology. It probably started the first time I got my hands on an Atari ST, playing *Tintin on the Moon* by *Infogrames*, still one of the most difficult games I've ever played :)
 
 My background spans **Linux, infrastructure, cybersecurity and IT/OT environments**.
 Over the years, I've worked on systems, networks, security operations, risk management,
