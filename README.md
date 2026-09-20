@@ -47,6 +47,16 @@ A reproducible **RHEL 9 golden image** built with Kickstart.
 It is used as the reference image for my Linux lab and focuses on unattended
 installation, image preparation, security defaults and reproducibility.
 
+### [SaaS Security Lab](https://github.com/lxrider/saas-security-lab)
+
+A hands-on project to understand how security fits into a modern SaaS environment.
+
+The fictional product, **RedRocket Engage**, is a small multi-tenant B2B SaaS application used to explore cloud security, AppSec, IAM, DevSecOps, logging, detection and incident response.
+
+The project starts from the business context and attacker objectives before moving into architecture and technical controls.
+
+**Work in progress.**
+
 ### Security Architecture Lab
 
 I'm building a virtual cybersecurity lab where I can experiment with:
@@ -62,16 +72,6 @@ I'm building a virtual cybersecurity lab where I can experiment with:
 
 The goal is to create something realistic enough to test architectural choices,
 make mistakes and learn from them.
-
-**Work in progress.**
-
-### [SaaS Security Lab](https://github.com/lxrider/saas-security-lab)
-
-A hands-on project to understand how security fits into a modern SaaS environment.
-
-The fictional product, **RedRocket Engage**, is a small multi-tenant B2B SaaS application used to explore cloud security, AppSec, IAM, DevSecOps, logging, detection and incident response.
-
-The project starts from the business context and attacker objectives before moving into architecture and technical controls.
 
 **Work in progress.**
 
