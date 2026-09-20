@@ -65,23 +65,13 @@ make mistakes and learn from them.
 
 **Work in progress.**
 
-### SaaS Security Lab
+### [SaaS Security Lab](https://github.com/lxrider/saas-security-lab)
 
-I'm also starting a lab around the security of a modern SaaS environment.
+A hands-on project to understand how security fits into a modern SaaS environment.
 
-This is an area I'm actively developing, with a focus on:
+The fictional product, **RedRocket Engage**, is a small multi-tenant B2B SaaS application used to explore cloud security, AppSec, IAM, DevSecOps, logging, detection and incident response.
 
-- cloud architecture
-- IAM and least privilege
-- application and API security
-- vulnerability management
-- centralized logging and detection
-- secrets management
-- container security
-- infrastructure as code
-- DevSecOps practices
-
-This project will grow alongside my work on **AWS architecture and cloud security**.
+The project starts from the business context and attacker objectives before moving into architecture and technical controls.
 
 **Work in progress.**
 
