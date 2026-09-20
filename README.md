@@ -62,7 +62,7 @@ The project starts from the business context and attacker objectives before movi
 
 A practical project about what an attacker can learn before touching a system or sending the first message.
 
-It connects MITRE ATT&CK Reconnaissance and Resource Development with defensive OSINT, online exposure and practical personal-security measures for executives, administrators and other people with privileged access.
+It connects MITRE ATT&CK Reconnaissance and Resource Development with defensive OSINT, online exposure and IRL practical personal-security measures for executives, administrators and other people with privileged access.
 
 The goal is not to make people invisible, but to remove unnecessary clues, break obvious connections and prepare a simple response.
 
