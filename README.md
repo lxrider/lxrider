@@ -20,15 +20,14 @@ and projects built to learn by doing.
 
 ## What I'm working on
 
-- Security architecture and governance
+- Security Architecture and Security by Design
+- Threat modeling and trust boundaries
 - SecOps, logging and detection
-- Human attack surface and defensive OSINT
 - Linux and RHEL platform engineering
 - Infrastructure automation with Ansible
+- Human attack surface and defensive OSINT
 - IT/OT security
 - SaaS and cloud security
-- Application security fundamentals
-- AWS architecture and security
 
 ## Projects
 
