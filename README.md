@@ -26,8 +26,8 @@ and projects built to learn by doing.
 - Linux and RHEL platform engineering
 - Infrastructure automation with Ansible
 - Human attack surface and defensive OSINT
-- IT/OT security
 - SaaS and cloud security
+- IT/OT security
 
 ## Projects
 
