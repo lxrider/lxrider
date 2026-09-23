@@ -49,7 +49,8 @@ installation, image preparation, security defaults and reproducibility.
 
 ### [SaaS Security Lab](https://github.com/lxrider/saas-security-lab)
 
-A hands-on project to understand how security fits into a modern SaaS environment.
+Security by Design and AppSec foundations through a multi-tenant SaaS built
+from scratch.
 
 The fictional product, **RedRocket Engage**, is a small multi-tenant B2B SaaS application used to explore cloud security, AppSec, IAM, DevSecOps, logging, detection and incident response.
 
