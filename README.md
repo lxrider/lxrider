@@ -12,11 +12,9 @@ automation and industrial environments.
 
 What I enjoy most is understanding how things really work by getting hands-on with them.
 
-I like starting from a blank page, building something, testing it, sometimes
-breaking it, understanding why it failed, and making it better.
+I like starting from a blank page, building something, testing it, sometimes breaking it, understanding why it failed, and making it better.
 
-That's mostly what you'll find here: practical labs, experiments, documentation,
-and projects built to learn by doing.
+This GitHub is a portfolio of practical cybersecurity projects exploring security from business value to risk, architecture, implementation and evidence.
 
 ## What I'm working on
 
