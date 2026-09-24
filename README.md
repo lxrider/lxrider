@@ -21,7 +21,8 @@ and projects built to learn by doing.
 ## What I'm working on
 
 - Security Architecture and Security by Design
-- Threat modeling and trust boundaries
+- AppSec foundations, threat modeling and trust boundaries
+- AI security and governance
 - SecOps, logging and detection
 - Linux and RHEL platform engineering
 - Infrastructure automation with Ansible
@@ -52,9 +53,25 @@ installation, image preparation, security defaults and reproducibility.
 Security by Design and AppSec foundations through a multi-tenant SaaS built
 from scratch.
 
-The fictional product, **RedRocket Engage**, is a small multi-tenant B2B SaaS application used to explore cloud security, AppSec, IAM, DevSecOps, logging, detection and incident response.
+The fictional product, **RedRocket Engage**, is used to explore how business
+value becomes security objectives, attacker objectives, architecture decisions
+and concrete application security problems.
 
-The project starts from the business context and attacker objectives before moving into architecture and technical controls.
+The lab follows a simple principle: build enough real product behavior for
+security problems to emerge, then observe, treat and prove the result.
+
+**Work in progress.**
+
+### [AI Exposure Lab](https://github.com/lxrider/ai-exposure-lab)
+
+A practical lab exploring how organizations can govern the use of generative AI
+without losing sight of why people use it in the first place.
+
+The project starts from real business use cases and looks at four dimensions:
+**channel, exposure, cognitive delegation and action delegation**.
+
+The goal is to understand what can go wrong, fix the root cause, prove that the
+safer path still works and turn recurring lessons into practical governance.
 
 **Work in progress.**
 
