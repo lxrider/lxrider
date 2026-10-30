@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🧭
 
 I'm a French cybersecurity engineer with a background in **Linux, networks, infrastructure and IT/OT environments**.
 
